@@ -1,0 +1,8 @@
+{
+  "name": "StreamMaster VPS Dashboard v2.0",
+  "description": "A production-ready FFmpeg live streaming management system for Ubuntu servers, featuring real-time monitoring, video gallery, and automated stream scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
